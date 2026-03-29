@@ -103,3 +103,29 @@ footer {
     border-radius: 10px;
     text-align: center;
 }
+.project-card {
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 12px;
+  margin: 20px 0;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+.project-card h2 {
+  margin-bottom: 10px;
+}
+
+.tech span {
+  background: #3b82f6;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 6px;
+  display: inline-block;
+}
+
+.links a {
+  display: inline-block;
+  margin: 10px;
+  color: #3b82f6;
+  text-decoration: none;
+}
