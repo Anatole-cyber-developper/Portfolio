@@ -1,0 +1,67 @@
+portfolio/
+ ├── index.html
+ └── style.css
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Anatole Blanchard de la Brosse - Portfolio IT</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Anatole Blanchard de la Brosse</h1>
+    <p>Reconversion IT | Développement Web & Cybersécurité</p>
+</header>
+
+<section class="about">
+    <h2>👤 À propos</h2>
+    <p>
+        En reconversion vers l’informatique, je développe mes compétences en développement web et systèmes.
+        Motivé et autonome, je cherche à intégrer un environnement technique.
+    </p>
+</section>
+
+<section class="skills">
+    <h2>🛠️ Compétences</h2>
+    <ul>
+        <li>HTML / CSS</li>
+        <li>JavaScript</li>
+        <li>Git / GitHub</li>
+        <li>Linux</li>
+        <li>Réseaux (bases)</li>
+    </ul>
+</section>
+
+<section class="projects">
+    <h2>📂 Projets</h2>
+
+    <div class="project">
+        <h3>🌐 Site Portfolio</h3>
+        <p>Site web responsive en HTML/CSS</p>
+    </div>
+
+    <div class="project">
+        <h3>🧮 Calculatrice JS</h3>
+        <p>Application JavaScript simple</p>
+    </div>
+
+    <div class="project">
+        <h3>🔐 Port Scanner</h3>
+        <p>Script Python pour scanner des ports</p>
+    </div>
+
+</section>
+
+<section class="contact">
+    <h2>📫 Contact</h2>
+    <p>Email : acid785@live.fr</p>
+</section>
+
+<footer>
+    <p>© 2026 - Anatole Blanchard de la Brosse</p>
+</footer>
+
+</body>
+</html>
