@@ -87,3 +87,6 @@ footer {
 .hero-header p {
     color: #38bdf8;
 }
+.hero-header {
+    box-shadow: inset 0 0 100px rgba(0,0,0,0.7);
+}
