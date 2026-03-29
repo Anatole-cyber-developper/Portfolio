@@ -50,3 +50,16 @@ footer {
     padding: 20px;
     background: #1e293b;
 }
+.btn {
+    display: inline-block;
+    margin: 5px;
+    padding: 8px 12px;
+    background: #38bdf8;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #0ea5e9;
+}
